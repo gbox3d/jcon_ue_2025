@@ -11,3 +11,4 @@
  - [5일차](https://docs.google.com/presentation/d/13illb-6-lWWOOG87U9Md8MfnuEHk31u79QxuStE_BJA/edit?usp=sharing)
  - [fps day1](https://docs.google.com/presentation/d/1zHoOIgbOSMjUO_Yn4POmzo_FQZu2o89Q1rr1SeZEYOU/edit?usp=sharing)
  - [fps_day2](https://docs.google.com/presentation/d/1ti0PxdTWMdeCYYJMOzUlk8uaydbsnd-9Zv880MSzm-E/edit?usp=drive_link)
+ - [fps day3](https://docs.google.com/presentation/d/1IKJN5XCRDwRWGffujzDDaqFZ-_p8zY-pDBjQxIccBrU/edit?usp=sharing)
