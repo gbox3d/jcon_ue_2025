@@ -14,3 +14,4 @@
  - [fps_day2](https://docs.google.com/presentation/d/1ti0PxdTWMdeCYYJMOzUlk8uaydbsnd-9Zv880MSzm-E/edit?usp=drive_link)
  - [fps day3](https://docs.google.com/presentation/d/1IKJN5XCRDwRWGffujzDDaqFZ-_p8zY-pDBjQxIccBrU/edit?usp=sharing)
  - [exdos_day1](https://docs.google.com/presentation/d/1SITzkWLITt7xQGcTXsOt2oPi_UAXKj5opKtwZ4br8ow/edit?usp=drive_link)
+ - [exdos day2](https://docs.google.com/presentation/d/1pRlg-XqP0dDt_jGEPRipEKorbNZ8qDG6bNICNTO1XUc/edit?usp=sharing)
