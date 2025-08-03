@@ -120,7 +120,7 @@ Assets/AssetStoreTools*
 ExportedObj/
 .consulo/
 *.csproj
-*.unityproj
+# *.unityproj
 *.sln
 *.suo
 *.tmp
@@ -144,15 +144,13 @@ sysinfo.txt
 
 # Builds
 *.apk
-*.unitypackage
-
 # 추가로 고려할 항목들
 # 팀에 따라 포함할지 결정
-# Content/Collections/
-# Content/Developers/
+Content/Collections/
+Content/Developers/
 
 # Marketplace 플러그인 (필요에 따라)
-# Plugins/Marketplace/
+Plugins/Marketplace/
 
 # 프로젝트별 커스텀 제외 항목
 # 예: 대용량 에셋이나 임시 파일들
