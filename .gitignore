@@ -1,0 +1,9 @@
+# Ignore Unreal Engine 5 project files
+
+*.log
+*.tmp
+*.cache
+*.DS_Store
+DerivedDataCache/
+Intermediate/
+Saved/
