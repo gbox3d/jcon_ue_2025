@@ -18,3 +18,4 @@
  - [exdos_day3](https://docs.google.com/presentation/d/1x8fXVxuB4sJKmJOz8quCfDMnkVlfPdwQWB9ouj9HrO0/edit?usp=sharing)
  - [act_day1](https://docs.google.com/presentation/d/16Z2VuCp81EQBbz5dsH-lW5QtSMRu2odoULM3rPFyQHY/edit?usp=sharing)
  - [act_day2](https://docs.google.com/presentation/d/1bAMi6sj5duGnddNKWFwwSDdZVrDtAfPFKKi_k7x-J8c/edit?usp=sharing)
+ - [act day3](https://docs.google.com/presentation/d/1VSaEvvEz8kWVWPaN9VFD_8JyQb_iwuUKYzzhJbuIBrg/edit?usp=sharing)
