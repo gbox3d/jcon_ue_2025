@@ -20,5 +20,5 @@
  - [act_day2](https://docs.google.com/presentation/d/1bAMi6sj5duGnddNKWFwwSDdZVrDtAfPFKKi_k7x-J8c/edit?usp=sharing)
  - [act day3](https://docs.google.com/presentation/d/1VSaEvvEz8kWVWPaN9VFD_8JyQb_iwuUKYzzhJbuIBrg/edit?usp=sharing)
  - [pluse day1](https://docs.google.com/presentation/d/1qM2TqlhBBX_Sr6ixyremHP991bITr_84fqxJD23_LOk/edit?usp=drive_link)
- - [pluse_day2][(https://docs.google.com/presentation/d/1HLWBv16rO_kTyrYrnCfe2wecPrd1bzf8FKx_oNcyn54/edit?usp=drive_link)
+ - [pluse_day2](https://docs.google.com/presentation/d/1HLWBv16rO_kTyrYrnCfe2wecPrd1bzf8FKx_oNcyn54/edit?usp=drive_link)
  - [pluse_day3](https://docs.google.com/presentation/d/1DjLLALNltNgz1sx6Mp5eMCAfu-r8mE5CdKAXyxaRtZk/edit?usp=drive_link)
