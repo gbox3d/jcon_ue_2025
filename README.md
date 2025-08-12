@@ -27,3 +27,4 @@
 ## 보충수업
 
  - [blood effect](https://docs.google.com/presentation/d/1tw4pSVTN9kicOyothS6PSoC2LYh_UrQPDhtzNU5qOYQ/edit?usp=sharing)
+ - [chaos destruction](https://docs.google.com/presentation/d/1BAUVqyiiP5Gz6M91L4l8-tU7XuU3hA9ltouCVqIGY14/edit?usp=sharing)
