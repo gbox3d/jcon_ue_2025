@@ -3,6 +3,7 @@
 - [프로잭트 파일](https://drive.google.com/drive/folders/1sQl_9YOsYJH49FFBPTE62e1u2nAftt8G?usp=drive_link)
 - [fps assets](https://drive.google.com/drive/folders/1yEW-pYb0eFNEtdlfk-h1MktUWB4o0pZ7?usp=sharing)
 - [jcon2025_pds](https://drive.google.com/drive/folders/1D3uOSTQo6j3oO_URPjGp3E4d10MubE_9?usp=drive_link)
+- [upload](https://drive.google.com/drive/folders/1U7gcU8yDP-DJY4EWVWvUauLWi-k_UmYB?usp=drive_link)
 
 ## 판서자료
  - [1일차](https://docs.google.com/presentation/d/1jZ6RRjGooSYvSYOmLmzPSYnlb-9wL11vn6WHM1_ERto/edit?usp=sharing)
