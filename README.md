@@ -22,3 +22,8 @@
  - [pluse day1](https://docs.google.com/presentation/d/1qM2TqlhBBX_Sr6ixyremHP991bITr_84fqxJD23_LOk/edit?usp=drive_link)
  - [pluse_day2](https://docs.google.com/presentation/d/1HLWBv16rO_kTyrYrnCfe2wecPrd1bzf8FKx_oNcyn54/edit?usp=drive_link)
  - [pluse_day3](https://docs.google.com/presentation/d/1DjLLALNltNgz1sx6Mp5eMCAfu-r8mE5CdKAXyxaRtZk/edit?usp=drive_link)
+
+
+## 보충수업
+
+[blood effect] (https://docs.google.com/presentation/d/1tw4pSVTN9kicOyothS6PSoC2LYh_UrQPDhtzNU5qOYQ/edit?usp=sharing)
