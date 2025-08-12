@@ -26,4 +26,4 @@
 
 ## 보충수업
 
-[blood effect] (https://docs.google.com/presentation/d/1tw4pSVTN9kicOyothS6PSoC2LYh_UrQPDhtzNU5qOYQ/edit?usp=sharing)
+ - [blood effect](https://docs.google.com/presentation/d/1tw4pSVTN9kicOyothS6PSoC2LYh_UrQPDhtzNU5qOYQ/edit?usp=sharing)
